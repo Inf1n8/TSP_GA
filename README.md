@@ -56,8 +56,6 @@ When you run the python file we get the following outputs:
 2) Final Distance to complete travelling all the locations after n generations 
 3) The best route which can be taken with minimum distance
 4) Graph visualization between Distance and Generations
-5) Plot the path that can be taken to cover all the locations
-
 ![Generation vs Total Distance](./assets/generation_vs_dist.png)
-
+5) Plot the path that can be taken to cover all the locations
 ![Shortest Path](./assets/path.gif)
