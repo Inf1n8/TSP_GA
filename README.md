@@ -45,6 +45,7 @@ If you want to run the jupyter notebook then type the following command in your 
 ```sh 
 $> jupyter notebook
 ```
+Click TSA_GA and run all the cells
 
 Else you can run the python file directly using the command:
 ```sh
@@ -57,5 +58,7 @@ When you run the python file we get the following outputs:
 3) The best route which can be taken with minimum distance
 4) Graph visualization between Distance and Generations
 5) Plot the path that can be taken to cover all the locations
+
 ![Generation vs Total Distance](./assets/generation_vs_dist.png)
+
 ![Shortest Path](./assets/path.gif)
